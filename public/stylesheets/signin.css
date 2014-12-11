@@ -38,3 +38,10 @@ body {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+.copy-footer {
+	background: #f6f6f6;
+	margin-top: 20px;
+	padding: 20px 0;
+	color: #999;
+	text-align: center;
+}
